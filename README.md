@@ -17,9 +17,14 @@
 - Install dependencies - `npm i`
 - Build typescript - `npm run build`
 - Run project - `npm start`
-- Go to swagger page - `localhost:3000/`
+- Go to swagger page - `localhost:3000/documentation`
 
 ### Development with Watch Compiler
 
 - Run once - `npm run dev`
 - Run and watch files - `npm run dev:watch`
+
+### Running with docker
+
+- `docker-compose up`
+- Go to swagger page - `localhost:3000/documentation`
